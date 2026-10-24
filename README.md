@@ -64,5 +64,5 @@ Debugged real issues along the way (column truncation on load, bit-to-boolean ty
 ## Author
 
 **Sonu Prajapati** – BI / Data Analyst
-Linkedin-linkedin.com/in/sp9594 
+Linkedin- www.linkedin.com/in/sp9594 
 
